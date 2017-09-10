@@ -1,0 +1,2 @@
+# codility
+Algorithm from codility
